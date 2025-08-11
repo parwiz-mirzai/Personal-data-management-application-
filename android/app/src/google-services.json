@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307586021305",
+    "project_id": "personal-f3a3c",
+    "storage_bucket": "personal-f3a3c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307586021305:android:dab09725fe0a48dcf8e868",
+        "android_client_info": {
+          "package_name": "com.example.infogurd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDZm0G7j3xhCGW_ES0T5Y0eDBHJaGC1gE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

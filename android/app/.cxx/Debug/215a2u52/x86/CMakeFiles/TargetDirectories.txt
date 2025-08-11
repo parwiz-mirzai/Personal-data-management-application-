@@ -1,0 +1,2 @@
+C:/Users/Parwiz/Documents/InfoGurd/infogurd/android/app/.cxx/Debug/215a2u52/x86/CMakeFiles/edit_cache.dir
+C:/Users/Parwiz/Documents/InfoGurd/infogurd/android/app/.cxx/Debug/215a2u52/x86/CMakeFiles/rebuild_cache.dir
