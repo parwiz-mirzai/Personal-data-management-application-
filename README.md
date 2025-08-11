@@ -1,6 +1,6 @@
 # infogurd
-![Image](https://github.com/user-attachments/assets/27db9fde-6c6d-429e-be2d-65f473bf8a66)
-![Image](https://github.com/user-attachments/assets/5ad69055-46e3-4a4f-8ea7-520a1d992bfc)
+![Image](https://github.com/user-attachments/assets/27db9fde-6c6d-429e-be2d-65f473bf8a66),![Image](https://github.com/user-attachments/assets/5ad69055-46e3-4a4f-8ea7-520a1d992bfc)
+
 ![Image](https://github.com/user-attachments/assets/e187c989-ebfd-4229-8cfc-2bed9844886f)
 ![Image](https://github.com/user-attachments/assets/38959c41-fc96-49fb-b558-3d14e6b8c18c)
 ![Image](https://github.com/user-attachments/assets/d560d681-64a3-40be-9669-2ca025b94d74)
